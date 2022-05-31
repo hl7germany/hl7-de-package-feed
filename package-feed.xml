@@ -9,15 +9,5 @@
     <pubDate>Tue, 31 May 2022 07:37:01 UTC</pubDate>
     <language>en</language>
     <ttl>600</ttl>
-    <item>
-      <title>#</title>
-      <description/>
-      <link>https://github.com/hl7germany/hl7-de-package-feed/packages///*.tgz</link>
-      <guid isPermaLink="true">https://github.com/hl7germany/hl7-de-package-feed/packages///*.tgz</guid>
-      <dc:creator/>
-      <fhir:version/>
-      <fhir:kind>IG</fhir:kind>
-      <pubDate>Tue, 31 May 2022 07:37:01 UTC</pubDate>
-    </item>
   </channel>
 </rss>
