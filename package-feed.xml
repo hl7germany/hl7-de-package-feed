@@ -4,10 +4,20 @@
     <description>New Packages published by HL7 Germany</description>
     <link>https://github.com/hl7germany/hl7-de-package-feed/package-feed.xml</link>
     <generator>HL7 Germany FHIR Publication tooling</generator>
-    <lastBuildDate>Mon, 30 May 2022 12:54:48 UTC</lastBuildDate>
+    <lastBuildDate>Tue, 31 May 2022 07:37:01 UTC</lastBuildDate>
     <atom:link href="https://github.com/hl7germany/hl7-de-package-feed/package-feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 May 2022 12:54:48 UTC</pubDate>
+    <pubDate>Tue, 31 May 2022 07:37:01 UTC</pubDate>
     <language>en</language>
     <ttl>600</ttl>
+    <item>
+      <title>#</title>
+      <description/>
+      <link>https://github.com/hl7germany/hl7-de-package-feed/packages///*.tgz</link>
+      <guid isPermaLink="true">https://github.com/hl7germany/hl7-de-package-feed/packages///*.tgz</guid>
+      <dc:creator/>
+      <fhir:version/>
+      <fhir:kind>IG</fhir:kind>
+      <pubDate>Tue, 31 May 2022 07:37:01 UTC</pubDate>
+    </item>
   </channel>
 </rss>
