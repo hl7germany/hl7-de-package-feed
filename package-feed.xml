@@ -4,9 +4,9 @@
     <description>New Packages published by HL7 Germany</description>
     <link>https://github.com/hl7germany/hl7-de-package-feed/package-feed.xml</link>
     <generator>HL7 Germany FHIR Publication tooling</generator>
-    <lastBuildDate>Tue, 31 May 2022 11:38:11 UTC</lastBuildDate>
+    <lastBuildDate>Tue, 31 May 2022 11:44:03 UTC</lastBuildDate>
     <atom:link href="https://github.com/hl7germany/hl7-de-package-feed/package-feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 May 2022 11:38:11 UTC</pubDate>
+    <pubDate>Tue, 31 May 2022 11:44:03 UTC</pubDate>
     <language>en</language>
     <ttl>600</ttl>
     <item>
@@ -18,6 +18,16 @@
       <fhir:version>4.0.1</fhir:version>
       <fhir:kind>IG</fhir:kind>
       <pubDate>Tue, 31 May 2022 11:38:11 UTC</pubDate>
+    </item>
+    <item>
+      <title>example-fhir-package-test#0.0.1</title>
+      <description>example-fhir-package-test</description>
+      <link>example-fhir-package-test/0.0.1/example-fhir-package-test.tgz</link>
+      <guid isPermaLink="true">example-fhir-package-test/0.0.1/example-fhir-package-test.tgz</guid>
+      <dc:creator>alexanderzautke</dc:creator>
+      <fhir:version>4.0.1</fhir:version>
+      <fhir:kind>IG</fhir:kind>
+      <pubDate>Tue, 31 May 2022 11:44:03 UTC</pubDate>
     </item>
   </channel>
 </rss>
