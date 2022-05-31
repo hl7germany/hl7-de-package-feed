@@ -9,15 +9,5 @@
     <pubDate>Tue, 31 May 2022 11:46:25 UTC</pubDate>
     <language>en</language>
     <ttl>600</ttl>
-    <item>
-      <title>example-fhir-package-test#0.0.1</title>
-      <description>example-fhir-package-test</description>
-      <link>https://github.com/hl7germany/hl7-de-package-feed/blob/main/example-fhir-package-test/0.0.1/example-fhir-package-test.tgz</link>
-      <guid isPermaLink="true">https://github.com/hl7germany/hl7-de-package-feed/blob/main/example-fhir-package-test/0.0.1/example-fhir-package-test.tgz</guid>
-      <dc:creator>alexanderzautke</dc:creator>
-      <fhir:version>4.0.1</fhir:version>
-      <fhir:kind>IG</fhir:kind>
-      <pubDate>Tue, 31 May 2022 11:46:25 UTC</pubDate>
-    </item>
   </channel>
 </rss>
