@@ -9,15 +9,5 @@
     <pubDate>Wed, 15 Jun 2022 19:54:38 UTC</pubDate>
     <language>en</language>
     <ttl>600</ttl>
-    <item>
-      <title>de.fhir-package-registry-test#0.0.1</title>
-      <description>de.fhir-package-registry-test</description>
-      <link>https://github.com/hl7germany/hl7-de-package-feed/blob/main/packages/de.fhir-package-registry-test/0.0.1/de.tgz?raw=true</link>
-      <guid isPermaLink="true">https://github.com/hl7germany/hl7-de-package-feed/blob/main/packages/de.fhir-package-registry-test/0.0.1/de.tgz?raw=true</guid>
-      <dc:creator>alexanderzautke</dc:creator>
-      <fhir:version>4.0.1</fhir:version>
-      <fhir:kind>IG</fhir:kind>
-      <pubDate>Wed, 15 Jun 2022 19:54:38 UTC</pubDate>
-    </item>
   </channel>
 </rss>
