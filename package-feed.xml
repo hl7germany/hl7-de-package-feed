@@ -4,9 +4,9 @@
     <description>New Packages published by HL7 Germany</description>
     <link>https://github.com/hl7germany/hl7-de-package-feed/blob/main/package-feed.xml?raw=true</link>
     <generator>HL7 Germany FHIR Publication tooling</generator>
-    <lastBuildDate>Thu, 21 Jul 2022 15:02:32 UTC</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2022 11:57:50 UTC</lastBuildDate>
     <atom:link href="https://github.com/hl7germany/hl7-de-package-feed/blob/main/package-feed.xml?raw=true" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Jul 2022 15:02:32 UTC</pubDate>
+    <pubDate>Mon, 01 Aug 2022 11:57:50 UTC</pubDate>
     <language>en</language>
     <ttl>600</ttl>
     <item>
@@ -18,6 +18,16 @@
       <fhir:version>4.0.1</fhir:version>
       <fhir:kind>IG</fhir:kind>
       <pubDate>Thu, 21 Jul 2022 15:02:32 UTC</pubDate>
+    </item>
+    <item>
+      <title>de.hl7.test.fhir-package-registry#0.0.2</title>
+      <description>de.hl7.test.fhir-package-registry</description>
+      <link>https://github.com/hl7germany/hl7-de-package-feed/blob/main/packages/de.hl7.test.fhir-package-registry/0.0.2/de.hl7.test.fhir-package-registry.tgz?raw=true</link>
+      <guid isPermaLink="true">https://github.com/hl7germany/hl7-de-package-feed/blob/main/packages/de.hl7.test.fhir-package-registry/0.0.2/de.hl7.test.fhir-package-registry.tgz?raw=true</guid>
+      <dc:creator>alexanderzautke</dc:creator>
+      <fhir:version>4.0.1</fhir:version>
+      <fhir:kind>IG</fhir:kind>
+      <pubDate>Mon, 01 Aug 2022 11:57:50 UTC</pubDate>
     </item>
   </channel>
 </rss>
