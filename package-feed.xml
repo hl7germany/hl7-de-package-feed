@@ -4,9 +4,9 @@
     <description>New Packages published by HL7 Germany</description>
     <link>https://github.com/hl7germany/hl7-de-package-feed/blob/main/package-feed.xml?raw=true</link>
     <generator>HL7 Germany FHIR Publication tooling</generator>
-    <lastBuildDate>Wed, 31 Aug 2022 17:47:07 UTC</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 17:37:32 UTC</lastBuildDate>
     <atom:link href="https://github.com/hl7germany/hl7-de-package-feed/blob/main/package-feed.xml?raw=true" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 Aug 2022 17:47:07 UTC</pubDate>
+    <pubDate>Mon, 18 Mar 2024 17:37:32 UTC</pubDate>
     <language>en</language>
     <ttl>600</ttl>
     <item>
@@ -18,6 +18,16 @@
       <fhir:version>4.0.1</fhir:version>
       <fhir:kind>IG</fhir:kind>
       <pubDate>Wed, 31 Aug 2022 17:47:07 UTC</pubDate>
+    </item>
+    <item>
+      <title>de.ihe-d.terminology#3.0.0-alpha2</title>
+      <description>de.ihe-d.terminology</description>
+      <link>https://github.com/hl7germany/hl7-de-package-feed/blob/main/packages/de.ihe-d.terminology/3.0.0-alpha2/de.ihe-d.terminology.tgz?raw=true</link>
+      <guid isPermaLink="true">https://github.com/hl7germany/hl7-de-package-feed/blob/main/packages/de.ihe-d.terminology/3.0.0-alpha2/de.ihe-d.terminology.tgz?raw=true</guid>
+      <dc:creator>alexzautke</dc:creator>
+      <fhir:version>4.0.1</fhir:version>
+      <fhir:kind>IG</fhir:kind>
+      <pubDate>Mon, 18 Mar 2024 17:37:32 UTC</pubDate>
     </item>
   </channel>
 </rss>
